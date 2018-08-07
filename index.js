@@ -7,6 +7,7 @@ const YouTube = require("simple-youtube-api");
 const fs = require("fs");
 const getYTID = require("get-youtube-id");
 const fetchVideoInfo = require("youtube-info");
+const child_process = require("child_process");
 const prefix = botSettings.prefix;
 const ytApiKey = botSettings.ytApiKey;
 const youtube = new YouTube(ytApiKey);
