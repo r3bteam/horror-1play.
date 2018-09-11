@@ -1,6 +1,6 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
-owner=331081268731052042 
-prefix=!
-game=Baktash-bot
+token=NDg3NjQ0ODc0NDY4NzUzNDM5.DnnCeg.TQpSc51daEGtVpSQpw5eIQph9As
+owner=487644874468753439 
+prefix=1
+game=Mysterious Server.
 stayinchannel=true
 songinstatus=true
