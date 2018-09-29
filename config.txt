@@ -1,6 +1,6 @@
 token=NDg3NjQ0ODc0NDY4NzUzNDM5.DnnCeg.TQpSc51daEGtVpSQpw5eIQph9As
 owner=450711003324350485 
 prefix=1
-game=Mysterious Server.
+game=Skillful Community.
 stayinchannel=true
 songinstatus=true
