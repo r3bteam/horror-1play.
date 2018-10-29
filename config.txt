@@ -1,5 +1,5 @@
 token=NDg3NjQ0ODc0NDY4NzUzNDM5.DnnCeg.TQpSc51daEGtVpSQpw5eIQph9As
-owner=450711003324350485 
+owner=479090634813341696 
 prefix=1
 game=Clam Server.
 stayinchannel=true
